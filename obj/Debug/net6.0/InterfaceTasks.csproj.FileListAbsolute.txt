@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\TRA-Code\InterfaceTasks\obj\Debug\net6.0\InterfaceTasks.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\TRA-Code\InterfaceTasks\obj\Debug\net6.0\InterfaceTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\TRA-Code\InterfaceTasks\obj\Debug\net6.0\InterfaceTasks.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\InterfaceTasks\obj\Debug\net6.0\InterfaceTasks.AssemblyInfo.cs
+C:\Users\TRA\Desktop\TRA-Code\InterfaceTasks\obj\Debug\net6.0\InterfaceTasks.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\InterfaceTasks\bin\Debug\net6.0\InterfaceTasks.exe
+C:\Users\TRA\Desktop\TRA-Code\InterfaceTasks\bin\Debug\net6.0\InterfaceTasks.deps.json
+C:\Users\TRA\Desktop\TRA-Code\InterfaceTasks\bin\Debug\net6.0\InterfaceTasks.runtimeconfig.json
+C:\Users\TRA\Desktop\TRA-Code\InterfaceTasks\bin\Debug\net6.0\InterfaceTasks.dll
+C:\Users\TRA\Desktop\TRA-Code\InterfaceTasks\bin\Debug\net6.0\InterfaceTasks.pdb
+C:\Users\TRA\Desktop\TRA-Code\InterfaceTasks\obj\Debug\net6.0\InterfaceTasks.dll
+C:\Users\TRA\Desktop\TRA-Code\InterfaceTasks\obj\Debug\net6.0\refint\InterfaceTasks.dll
+C:\Users\TRA\Desktop\TRA-Code\InterfaceTasks\obj\Debug\net6.0\InterfaceTasks.pdb
+C:\Users\TRA\Desktop\TRA-Code\InterfaceTasks\obj\Debug\net6.0\InterfaceTasks.genruntimeconfig.cache
+C:\Users\TRA\Desktop\TRA-Code\InterfaceTasks\obj\Debug\net6.0\ref\InterfaceTasks.dll
