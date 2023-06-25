@@ -54,6 +54,15 @@
 
             Console.WriteLine("%%%%%%%%%%%%%%% Task 5 %%%%%%%%%%%%");
 
+            ILogger filelogger = new FileLogger("Personal information");
+            filelogger.LogInfo("private file");
+            filelogger.LogError("Error 243#");
+            Console.WriteLine("######");
+            ILogger database = new DatabaseLogger("Telecom Database");
+            database.LogInfo("this is a telecome database was created in 1998 with size 1.45 T");
+            database.LogError("Error 54# need password");
+
+            Console.WriteLine("%%%%%%%%%%%%%%% Task 5 %%%%%%%%%%%%");
 
         }
     }
