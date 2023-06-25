@@ -32,6 +32,18 @@
 
             Console.WriteLine("%%%%%%%%%%%%%%% Task 3 %%%%%%%%%%%%");
 
+            IPlayable music = new MusicPlayer();
+            music.Play();
+            music.Pause();
+            music.Stop();
+            Console.WriteLine("######");
+            IPlayable video = new VideoPlayer();
+            video.Play();
+            video.Pause();
+            video.Stop();
+
+            Console.WriteLine("%%%%%%%%%%%%%%% Task 4 %%%%%%%%%%%%");
+
 
 
         }
