@@ -44,6 +44,15 @@
 
             Console.WriteLine("%%%%%%%%%%%%%%% Task 4 %%%%%%%%%%%%");
 
+            IAnimal dog = new Dog();
+            dog.Eat();
+            dog.Sleep();
+            Console.WriteLine("######");
+            IAnimal cat = new Cat();
+            cat.Eat();
+            cat.Sleep();
+
+            Console.WriteLine("%%%%%%%%%%%%%%% Task 5 %%%%%%%%%%%%");
 
 
         }
