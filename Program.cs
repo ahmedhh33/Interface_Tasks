@@ -62,7 +62,15 @@
             database.LogInfo("this is a telecome database was created in 1998 with size 1.45 T");
             database.LogError("Error 54# need password");
 
-            Console.WriteLine("%%%%%%%%%%%%%%% Task 5 %%%%%%%%%%%%");
+            Console.WriteLine("%%%%%%%%%%%%%%% Task 6 %%%%%%%%%%%%");
+
+
+            FullTimeEmployee Em1 = new FullTimeEmployee("Rashid", 1200, "Electrical ENG");
+            Console.WriteLine($"Name of Employer {Em1.GetName()} work as {Em1.GetJobTitle()} gain {Em1.GetSalary()} OMR/month");
+            FullTimeEmployee Em2 = new FullTimeEmployee("Salim", 1900, "Well ENG");
+            Console.WriteLine($"Name of Employer {Em2.GetName()} work as {Em2.GetJobTitle()} gain {Em2.GetSalary()} OMR/month");
+            PartTimeEmployee P1 = new PartTimeEmployee("Nasser", 5.5, 160, "cleener");
+            Console.WriteLine($"Name of Employer {P1.GetName()} work as {P1.GetJobTitle()} gain {P1.GetSalary()} OMR/month");
 
         }
     }
